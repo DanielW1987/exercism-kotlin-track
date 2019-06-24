@@ -52,6 +52,16 @@
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/two-fer" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/two-fer" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
     </option>
   </component>
 </project>
